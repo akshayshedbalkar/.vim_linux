@@ -43,6 +43,6 @@
 [submodule "pack/plugins/start/snippets"]
 	path = pack/plugins/start/snippets
 	url = https://github.com/honza/vim-snippets.git
-[submodule "holokai"]
-	path = holokai
+[submodule "pack/plugins/start/holokai"]
+	path = pack/plugins/start/holokai
 	url = https://github.com/changyuheng/color-scheme-holokai-for-vim.git
