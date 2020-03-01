@@ -1,0 +1,48 @@
+[submodule "pack/plugins/start/fugitive"]
+	path = pack/plugins/start/fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "pack/plugins/start/commentary"]
+	path = pack/plugins/start/commentary
+	url = https://github.com/tpope/vim-commentary.git
+[submodule "pack/plugins/start/ctrlp"]
+	path = pack/plugins/start/ctrlp
+	url = https://github.com/kien/ctrlp.vim.git
+[submodule "pack/plugins/start/delimitmate"]
+	path = pack/plugins/start/delimitmate
+	url = https://github.com/Raimondi/delimitMate.git
+[submodule "pack/plugins/start/nerdtree"]
+	path = pack/plugins/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "pack/plugins/start/buffexplorer"]
+	path = pack/plugins/start/buffexplorer
+	url = https://github.com/jlanzarotta/bufexplorer.git
+[submodule "pack/plugins/start/gutentags"]
+	path = pack/plugins/start/gutentags
+	url = https://github.com/ludovicchabant/vim-gutentags.git
+[submodule "pack/plugins/start/tagbar"]
+	path = pack/plugins/start/tagbar
+	url = https://github.com/majutsushi/tagbar.git
+[submodule "pack/plugins/start/airline"]
+	path = pack/plugins/start/airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "pack/plugins/start/tabular"]
+	path = pack/plugins/start/tabular
+	url = https://github.com/godlygeek/tabular.git
+[submodule "pack/plugins/start/surround"]
+	path = pack/plugins/start/surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "pack/plugins/start/tlib"]
+	path = pack/plugins/start/tlib
+	url = https://github.com/tomtom/tlib_vim.git
+[submodule "pack/plugins/start/utils"]
+	path = pack/plugins/start/utils
+	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
+[submodule "pack/plugins/start/snipmate"]
+	path = pack/plugins/start/snipmate
+	url = https://github.com/garbas/vim-snipmate.git
+[submodule "pack/plugins/start/snippets"]
+	path = pack/plugins/start/snippets
+	url = https://github.com/honza/vim-snippets.git
+[submodule "holokai"]
+	path = holokai
+	url = https://github.com/changyuheng/color-scheme-holokai-for-vim.git
